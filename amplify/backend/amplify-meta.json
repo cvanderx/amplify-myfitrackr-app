@@ -68,8 +68,7 @@
         "usernameAttributes": [],
         "signupAttributes": [
           "NAME",
-          "EMAIL",
-          "PROFILE"
+          "EMAIL"
         ],
         "passwordProtectionSettings": {
           "passwordPolicyMinLength": 8,
